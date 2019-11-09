@@ -1,0 +1,46 @@
+{
+    "title": "hello ! I'm elahe",
+    "subtitle": "Frent-end Dev | ",
+    "links": {
+        "github": "https://github.com/elahekaramzade",
+        "stackoverflow": "https://stackoverflow.com/story/elahekaramzade",
+        "linkedin": "https://www.linkedin.com/in/elahe-karamzade-02288168/"
+    },
+    "sections": [{
+            "title": "About",
+            "items": [{
+                "type": "",
+                "content": ""
+            }]
+        },
+        {
+            "title": "Skills",
+            "items": [{
+                "type": "card",
+                "content": {
+                    "image": "",
+                    "title":"React"
+                }
+            },{
+                "type": "card",
+                "content": {
+                    "image": "",
+                    "title":"JavaScript"
+                }
+            },{
+                "type": "card",
+                "content": {
+                    "image": "",
+                    "title":"Angularjs"
+                }
+            },{
+                "type": "card",
+                "content": {
+                    "image": "",
+                    "title":"Html/Css"
+                }
+            }]
+        }
+    ]
+
+}
