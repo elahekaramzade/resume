@@ -1,0 +1,41 @@
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.fullpage {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+.first {
+    background: cornflowerblue;
+}
+
+.second {
+    background: #673AB7;
+}
+.third{
+    background-color:darkmagenta ;
+}

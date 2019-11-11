@@ -1,22 +1,26 @@
-.App {
-  text-align: center;
+html,
+body {
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.icon-wrapper {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
 
-.App-link {
-  color: #09d3ac;
+.icon {
+  margin: 10px;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+.cards-wrapper {
+  display: flex;
+  flex-direction: row;
+
 }

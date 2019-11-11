@@ -1,0 +1,11 @@
+.image-wrapper {
+    margin: 20px;
+}
+
+.skill-title-wrapper {
+    text-align: center;
+}
+.card {
+    border: 1px solid rebeccapurple;
+    background-color: floralwhite; 
+}

@@ -1,0 +1,12 @@
+.Navigation {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color: #0000002e;
+    width: 100vw;
+    position: fixed;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+}

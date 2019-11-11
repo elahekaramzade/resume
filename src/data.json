@@ -1,6 +1,6 @@
 {
     "title": "hello ! I'm elahe",
-    "subtitle": "Frent-end Dev | ",
+    "subtitle": "Frent-end Developer ",
     "links": {
         "github": "https://github.com/elahekaramzade",
         "stackoverflow": "https://stackoverflow.com/story/elahekaramzade",
@@ -9,8 +9,8 @@
     "sections": [{
             "title": "About",
             "items": [{
-                "type": "",
-                "content": ""
+                "type": "p",
+                "content": "an electonics engenier but Love to code :)"
             }]
         },
         {
@@ -18,29 +18,32 @@
             "items": [{
                 "type": "card",
                 "content": {
-                    "image": "",
-                    "title":"React"
+                    "image": "image/react.png",
+                    "title": "React"
                 }
-            },{
+            }, {
                 "type": "card",
                 "content": {
-                    "image": "",
-                    "title":"JavaScript"
+                    "image": "image/javascript.png",
+                    "title": "JavaScript"
                 }
-            },{
+            }, {
                 "type": "card",
                 "content": {
-                    "image": "",
-                    "title":"Angularjs"
+                    "image": "image/angularjs.png",
+                    "title": "Angularjs"
                 }
-            },{
+            }, {
                 "type": "card",
                 "content": {
-                    "image": "",
-                    "title":"Html/Css"
+                    "image": "image/htmlcss.png",
+                    "title": "Html/Css"
                 }
             }]
         }
-    ]
+    ],
+    "icons":{
+        "down":"image/down.png"
+    }
 
 }
