@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://elahekaramzade.github.io/maktabkhoone-resume",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0",
