@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elahekaramzade.github.io/maktabkhoone-resume",
+  "homepage": "https://elahekaramzade.github.io/resume",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^16.11.0",
@@ -36,7 +36,6 @@
     ]
   },
   "devDependencies": {
-    "babel-loader": "^8.0.6",
     "react-social-icons": "^4.1.0"
   }
 }
