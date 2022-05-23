@@ -24,3 +24,14 @@ h3 {
   flex-direction: row;
 
 }
+
+.about-me div {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.about-me p {
+  text-align: justify;
+  font-size: 1.4rem;
+
+}

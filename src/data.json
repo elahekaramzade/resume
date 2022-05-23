@@ -3,47 +3,61 @@
     "subtitle": "Frent-end Developer ",
     "links": {
         "github": "https://github.com/elahekaramzade",
-        "stackoverflow": "https://stackoverflow.com/story/elahekaramzade",
+        "stackoverflow": "https://stackoverflow.com/users/8633422/elahe-karamzade",
         "linkedin": "https://www.linkedin.com/in/elahe-karamzade-02288168/"
     },
-    "sections": [{
+    "sections": [
+        {
             "title": "About",
-            "items": [{
-                "type": "p",
-                "content": "an electonics engenier but Love to code :)"
-            }]
+            "items": [
+                {
+                    "type": "p",
+                    "content": "Front-end developer with proven experience in javascript frameworks such as vue and react, angularjs as well. Looking forward to improving my abilities in new techs and also being open to new experiences. I started coding in 2016. I chose to be a front-end developer as it is combining art and logic. I used to painting and playing game board in my spare time:)"
+                }
+            ]
         },
         {
             "title": "Skills",
-            "items": [{
-                "type": "card",
-                "content": {
-                    "image": "image/react.png",
-                    "title": "React"
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "image/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "image/vue.png",
+                        "title": "Vue"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "image/javascript.png",
+                        "title": "JavaScript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "image/angularjs.png",
+                        "title": "Angularjs"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "image/htmlcss.png",
+                        "title": "Html/Css"
+                    }
                 }
-            }, {
-                "type": "card",
-                "content": {
-                    "image": "image/javascript.png",
-                    "title": "JavaScript"
-                }
-            }, {
-                "type": "card",
-                "content": {
-                    "image": "image/angularjs.png",
-                    "title": "Angularjs"
-                }
-            }, {
-                "type": "card",
-                "content": {
-                    "image": "image/htmlcss.png",
-                    "title": "Html/Css"
-                }
-            }]
+            ]
         }
     ],
-    "icons":{
-        "down":"image/down.png"
+    "icons": {
+        "down": "image/down.png"
     }
-
 }
